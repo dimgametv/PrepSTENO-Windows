@@ -1,6 +1,6 @@
 # 🖥️ PrepSTENO Windows
 
-**PrepSTENO** is a professional typing and steno practice software built for SSC Stenographer aspirants. It helps you improve typing speed, accuracy, and confidence through structured lessons and smart evaluation.
+**PrepSTENO** is a professional English Steno practice software built for SSC Stenographer aspirants. It evaluates your mistakes as per the very rules published by SSC for Stenographer Skill Test. It helps you improve typing speed, accuracy, and confidence through structured lessons and smart evaluation.
 
 ---
 
@@ -9,7 +9,7 @@
 ### 🔹 Step 1: Download
 Click the link below to download the latest version of the app:
 
-📦 [Download PrepSTENO_Latest.zip](https://dimgametv.github.io/PrepSTENO-Windows/PrepSTENO_Latest.zip)
+📦 [Download PrepSTENO_Latest.zip](https://dimgametv.github.io/PrepSTENO-Windows/PrepSTENO_WindowsLatest.zip.zip)
 
 ### 🔹 Step 2: Install
 1. Extract the ZIP file to any folder on your PC.
@@ -29,22 +29,14 @@ Whenever a new version is released:
 
 ---
 
-## 📁 For Developers / Contributors
-
-This repo contains:
-- `PREP STENO.application` → Update manifest
-- `Application Files/` → Versioned deployment packages
-- `PrepSTENO_Latest.zip` → Installer for first-time users
-
 ### ⚠️ Do not delete or rename these files, as they are required for auto-update to work properly.
 
 ---
 
 ## 📬 Contact
 
-For feedback or suggestions, please reach out to [Sharvi](mailto:your-email@example.com) or raise an issue on GitHub.
+For feedback or suggestions, please reach out to me at heysharvi@gmail.com OR https://t.me/heysharvi.
 
 ---
 
-**PrepSTENO** is built with ❤️ using Visual Basic .NET and ClickOnce.
-
+**PrepSTENO** is made with ❤️ in Haryana BY · Akshar Chaudhary ·
