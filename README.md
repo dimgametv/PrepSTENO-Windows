@@ -9,7 +9,7 @@
 ### 🔹 Step 1: Download
 Click the link below to download the latest version of the app:
 
-📦 [Download PrepSTENO_Latest.zip](https://dimgametv.github.io/PrepSTENO-Windows/PrepSTENO_WindowsLatest.zip)
+📦 [Download PrepSTENO_Latest.zip](https://shrinkme.ink/prepstenozip)
 
 ### 🔹 Step 2: Install
 1. Extract the ZIP file to any folder on your PC.
