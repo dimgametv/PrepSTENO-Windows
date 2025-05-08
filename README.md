@@ -1,4 +1,4 @@
-# 🖥️ PrepSTENO Windows
+# 🖥️ PrepSteno-Windows
 
 **PrepSTENO** is a professional English Steno practice software built for SSC Stenographer aspirants. It evaluates your mistakes as per the very rules published by SSC for Stenographer Skill Test. It helps you improve typing speed, accuracy, and confidence through structured lessons and smart evaluation.
 
