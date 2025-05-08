@@ -9,7 +9,7 @@
 ### 🔹 Step 1: Download
 Click the link below to download the latest version of the app:
 
-📦 [Download PrepSteno-Windows_Latest.zip](https://github.com/dimgametv/prepsteno-windows/raw/main/PrepSTENO_WindowsLatest.zip)
+📦 [Download PrepSteno-Windows](https://github.com/dimgametv/prepsteno-windows/raw/main/PrepSTENO_WindowsLatest.zip)
 
 ### 🔹 Step 2: Install
 1. Extract the ZIP file to any folder on your PC.
