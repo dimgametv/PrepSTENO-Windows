@@ -35,8 +35,8 @@ Whenever a new version is released:
 
 ## 📬 Contact
 
-For feedback or suggestions, please reach out to me at heysharvi@gmail.com OR https://t.me/heysharvi.
+For feedback or suggestions, please reach out to me at prepsteno@gmail.com OR https://t.me/heysharvi.
 
 ---
 
-**PrepSTENO** is made with ❤️ in Haryana BY · Akshar Chaudhary ·
+**PrepSTENO** is made with ❤️ in Haryana By · Akshar Chaudhary ·
