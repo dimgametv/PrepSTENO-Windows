@@ -9,7 +9,7 @@
 ### 🔹 Step 1: Download
 Click the link below to download the latest version of the app:
 
-📦 [Download PrepSTENO_Latest.zip](https://shrinkme.ink/prepstenozip)
+📦 [Download PrepSteno-Windows](https://github.com/dimgametv/prepsteno-windows/raw/main/PrepSTENO_WindowsLatest.zip)
 
 ### 🔹 Step 2: Install
 1. Extract the ZIP file to any folder on your PC.
@@ -25,7 +25,7 @@ Once installed, **PrepSTENO** will automatically check for updates every time yo
 ### ✅ You don’t need to reinstall again!  
 Whenever a new version is released:
 - Just open the app and it will auto-update from:  
-  👉 `https://dimgametv.github.io/PrepSTENO-Windows/`
+  👉 `https://dimgametv.github.io/prepsteno-windows/`
 
 ---
 
