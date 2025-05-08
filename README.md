@@ -39,4 +39,4 @@ For feedback or suggestions, please reach out to me at prepsteno@gmail.com OR ht
 
 ---
 
-**PrepSTENO** is made with ❤️ in Haryana By · Akshar Chaudhary ·
+**PrepSteno** is made with ❤️ in Haryana By · Akshar Chaudhary ·
