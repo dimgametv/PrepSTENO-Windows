@@ -25,7 +25,7 @@ Once installed, **PrepSTENO** will automatically check for updates every time yo
 ### ✅ You don’t need to reinstall again!  
 Whenever a new version is released:
 - Just open the app and it will auto-update from:  
-  👉 `https://dimgametv.github.io/PrepSTENO-Windows/`
+  👉 `https://dimgametv.github.io/prepsteno-windows/`
 
 ---
 
